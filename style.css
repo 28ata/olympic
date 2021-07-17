@@ -1,0 +1,10 @@
+body{
+    text-align:center;
+    background-image: url=("8.jpg");
+  }
+h1{
+    font-style:small-caps;
+  }
+canvas{
+    outline-style:ridge;
+  }
